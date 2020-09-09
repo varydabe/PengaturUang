@@ -6,3 +6,5 @@ aplikasi berisi tentang jumlah uang, pengeluaran dan pendapatan.
 
 project akan dimulai ketika sedang mood hehe
 wanna join?
+
+*berganti ke webdev LOL
